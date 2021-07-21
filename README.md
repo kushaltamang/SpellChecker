@@ -1,4 +1,4 @@
-This program prints the edit distance table and caculates edit distance between any two words provided by the user. Using the edit distance algorithm, it also gives auto-correct like suggestions to misspelled words. 
+This program prints the edit distance table and calculates the edit distance between any two words provided by the user. Using the edit distance algorithm, it also gives auto-correct like suggestions to misspelled words. 
 
 Compile Instructions:
 - gcc spellcheck.c edit_distance.c
